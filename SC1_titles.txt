@@ -131,9 +131,9 @@ otherPremises.pendingWork.heading=Are the premises ready to meet the needs of th
 otherPremises.pendingWork.inner._1.heading=Please, describe the building works or conversions
 otherPremises.pendingWork.inner._2.heading=Date the site will be ready
 planningPermit.heading=Have you obtained the required planning permission or do you have evidence from the local authority to confirm that planning permission is not required?
-planningPermit.inner.TRUE=I have a copy to upload
+planningPermit.outer.TRUE=I have a copy to upload
 planningPermit.inner.inner.file.heading=Please, upload a copy of the document:
-planningPermit.inner.FALSE=Copy to follow
+planningPermit.outer.FALSE=Copy to follow
 accessReqDisabilityAct2005.heading=Does the building meet the access requirements of the Disability Discrimination Act 2005?
 premisesSecurity.heading=Describe the security arrangements of the premises
 staffPosts.heading=What staff posts are you recruiting to care for children and young people?
@@ -265,9 +265,9 @@ careForAdultsWithoutChildren.heading=Care for adults (people over 18) who do not
 admitChildrenWithCarers.heading=Regularly admit children accompanied by carers other than their parents
 otherService.heading=Provide a service other than that of the residential family centre
 voluntaryAdoptionType.heading=What type of service do you intend to provide?
-voluntaryAdoptionType.outer.domestic.heading=Domestic adoption
-voluntaryAdoptionType.outer.interCountry.heading=Inter-country adoption
-voluntaryAdoptionType.outer.support.heading=Adoption support services
+voluntaryAdoptionType.Domestic=Domestic adoption
+voluntaryAdoptionType.InterCountry.heading=Inter-country adoption
+voluntaryAdoptionType.Support=Adoption support services
 branches.heading=Will the voluntary adoption agency have any branches?
 panelMoreBranches.heading=If your agency has more than one branch, will you have more than one adoption panel?
 birthRecordsCounselling.heading=Will your agency provide birth records counselling?
@@ -279,3 +279,15 @@ selectionCriteria.heading=Will you select children by any criteria other than ag
 facilitiesServicesDetails.heading=What facilities and services will you provide?
 missingChildrenProcedure.heading=What is your procedure for dealing with any children who may go missing from the holiday scheme?
 concernsComplaints.heading=What are your arrangements for children to raise questions and concerns about the holiday scheme?
+
+
+
+
+
+
+
+
+
+
+
+
