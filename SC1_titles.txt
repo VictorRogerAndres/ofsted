@@ -1,0 +1,256 @@
+address.heading=Address
+applicableActs.heading=Has your organisation ever been registered or licensed for, or been the owner of or a partner in, any service registered or licensed under any of the following?
+applicantType.heading=Are you applying as an individual, partnership or organisation?
+charityNumber.heading=Do you know the registered charity number?
+commsOptOut.heading=I would like to opt out of receiving communications electronically
+companyNumber.heading=Do you know the registered company number?
+creationDate.heading=Date that it came into being 
+defNumber.heading=Please, provide the Department for Education number (if available)
+email.heading=Email address
+financialViability.heading=Are you/is your organisation financially viable, do you have the finance available to achieve the aims and objectives of the statement of purpose, and can you supply a business plan and details of cash-flow or predicted cash-flow?
+financialViability.inner.hint=Please provide details
+holdingCompany.heading=Is the organisation a subsidiary of a holding company?
+individual.heading=Which people are part of the individual provider?
+interestsRea.heading=Do you/does your organisation have any current financial or work interests in one or more other establishments or agencies registered with OFSTED?
+isEducationalEstablishment.heading=Are you applying to register an educational establishment (or planned education establishment) as a children’s home?
+manager.heading=Please, provide the details of the responsible individual for the organisation
+membersDisqualified.heading=!!!!!
+moreDetails.heading=You need to provide more details
+orgSector.heading=Organisation sector:
+orgType.heading=Type of organisation:
+rea.heading=What are the details of the registered establishment or agency?
+refusedApplication.heading=Has your organisation or partnership ever had an application refused or registration cancelled?
+refusedApplication.heading.hint=Only answer "Yes" if it happened under any of these acts: \
+                                - Registered Homes Act 1984 \
+                                - Registered Homes (Amendment) Act 1991 \
+                                - Children Act 1989 \
+                                - Childcare Act 2006 \
+                                - Nurses Agencies Act 1957 \
+                                - Care Standards Act 2000 \
+                                - Health and Social Care Act 2008
+serviceType.heading=What type of service are you applying to register?
+ChildrenHome.option=Childrens home
+targetOpDate.heading=What is the target opening date?
+telephone.heading=Phone number
+telephone.heading.hint=Without spaces e.g. 07123456789
+title.heading=Title
+firstName.heading=Forename
+surname.heading=Surname
+position.heading=Position
+management.heading=Will this person have any management responsibility?
+contactChildren.heading=Will this person have significant contact with children?
+RegHomes1991.option=Registered Homes (Amendment) Act 1991
+CareStdAct2000.option=Care Standards Act 2000
+RegHomes1984.option=Registered Homes Act 1984
+HealthSocialCareAct2008.option=Health and Social Care Act 2008
+name.heading=Name
+address.heading=Address
+address.line1.heading=Address Line 1
+address.line2.heading=Address Line 2
+address.line3.heading=Address Line 3
+address.line4.heading=Address Line 4
+address.postcode.heading=Postcode
+ofstedRegNo.heading=Ofsted registration number
+ofstedRegNo.heading=Ofsted registration number
+refusedApplication.inner.refAppName.heading=Name (as stated in the application)
+refusedApplication.inner.refAppOfstedRegNo.heading=Ofsted registration number
+refusedApplication.inner.refAppOrgID.heading=OrganisationID
+refusedApplication.inner.refAppDetails.heading=Please, tell us what happened:
+refusedApplication.inner.refAppDetails.heading.hint=For example: \
+                                                    - details of any registration held, including information about the type of service provided \
+                                                    - the dates of registration \
+                                                    - reasons why the registration ceased, if applicable \
+                                                    - any other detail that you think is relevant
+TRUE.option=Yes
+FALSE.option=No
+there.is.a.problem=There is a problem
+required=This is a required field
+day=Day
+month=Month
+year=Year
+LocalAuthority=Local authority
+HealthAuthority=Health authority
+StatutoryBody=Statutory body
+organisationName.heading=What is the name of your organisation?
+partnershipName.heading=What is the name of your partnership?
+email.heading=Email Address
+telephone.heading=Telephone number
+creationDate.heading=Date of creation
+charityNumber.heading=Do you know the charity number?
+companyNumber.heading=Do you know the company number?
+subsidiaries.heading=Are there any other subsidiaries?
+rea.inner.name.heading=Name
+rea.inner.address.heading=Address
+rea.inner.address.line1.heading=Line 1
+rea.inner.address.line2.heading=Line 2
+rea.inner.address.line3.heading=Town
+rea.inner.address.line4.heading=County
+rea.inner.address.postcode.heading=Postcode
+rea.inner.ofstedRegNo.heading=Do you know the Ofsted unique registration number (URN)?
+interestsRea.inner.name.heading=Name
+interestsRea.inner.address.heading=Address
+interestsRea.inner.address.line1.heading=Line 1
+interestsRea.inner.address.line2.heading=Line 2
+interestsRea.inner.address.line3.heading=Town
+interestsRea.inner.address.line4.heading=County
+interestsRea.inner.address.postcode.heading=Postcode
+interestsRea.inner.ofstedRegNo.heading=Do you know the Ofsted unique registration number (URN)?
+!!!!!=Which people are part of the individual provider?
+individual.title.heading=Title
+individual.firstName.heading=First Name
+individual.surname.heading=Surname
+individual.dob.heading=Date of Birth
+individual.position.heading=Position
+individual.management.heading=Does this person have management responsibility?
+individual.contactChildren.heading=Will this person have significant contact with children and/or young people?
+establishment.heading=You need to provide more details about the provision
+establishment.name.heading=Name
+establishment.address.heading=Address
+establishment.address.line1.heading=Line 1
+establishment.address.line2.heading=Line 2
+establishment.address.line3.heading=Town
+establishment.address.line4.heading=County
+establishment.address.postcode.heading=Postcode
+establishment.telephone.heading=Telephone
+establishment.email.heading=Email
+establishment.soleUse.heading=Will you have sole use of the premises?
+haveOtherPremises.heading=Will the agency be operated from more than one site?
+otherPremises.heading=You need to tell us about these other premises
+otherPremises.address.heading=Address
+otherPremises.address.line1.heading=Line 1
+otherPremises.address.line2.heading=Line 2
+otherPremises.address.line3.heading=Town
+otherPremises.address.line4.heading=County
+otherPremises.telephone.heading=Telephone
+otherPremises.fax.heading=Fax
+otherPremises.email.heading=Email
+otherPremises.description.heading=Please provide a description of the premises
+otherPremises.description.heading.hint= For example if they are purpose built, converted, the area they are located in, etc.
+otherPremises.soleUse.heading=Will you have sole use of the premises?
+otherPremises.pendingWork.heading=Are the premises ready to meet the needs of the service?
+otherPremises.pendingWork.inner._1.heading=Please, describe the building works or conversions
+otherPremises.pendingWork.inner._2.heading=Date the site will be ready
+planningPermit.heading=Have you obtained the required planning permission or do you have evidence from the local authority to confirm that planning permission is not required?
+planningPermit.inner.TRUE=I have a copy to upload
+planningPermit.inner.inner.file.heading=Please, upload a copy of the document:
+planningPermit.inner.FALSE=Copy to follow
+accessReqDisabilityAct2005.heading=Does the building meet the access requirements of the Disability Discrimination Act 2005?
+premisesSecurity.heading=Describe the security arrangements of the premises
+staffPosts.heading=What staff posts are you recruiting to care for children and young people?
+staffPosts.inner.staffPosition.heading=Position
+staffPosts.inner.staffDuties.heading=Duties and responsibilities
+staffPosts.inner.staffDuties.heading.hint=Describe them briefly. We will discuss further when we visit you.
+staffPostsTimes.heading=Tell us about these posts
+staffPostsTimes._1.heading=Number of fulltime posts
+staffPostsTimes._2.heading=Number of part time posts
+staffLivingPremises.heading=Will anyone be living on the premises?
+adoptionSupportType.heading=What type of agency do you intend to run?
+counseling.heading=Counselling relating to adoption
+info.heading=Advice and information about adoption
+birthRecords.heading=Birth records counselling
+intermediary.heading=Intermediary services
+contactFormerFamily.heading=Support, including mediation services, relating to arrangements for contact between children who have been adopted, or who live with or have been matched with potential adopters, and their former families
+therapeuticNeeds.heading=Services relating to the therapeutic needs of children who have been adopted or who live with or have been matched with potential adopters (such as art therapy or play therapy)
+relationAdoptiveParents.heading=Support to make sure the relationship between children who have been (or may be) adopted and their adoptive parents continues, including training parents so that they can meet the child's special needs
+disruptionMediation.heading=Support where there is (or could be) a disruption in an adoption, or placement for adoption, including mediation services and organising meetings to discuss disruptions
+intermediaryServices.heading=Intermediary services: providing support to adults who have been adopted, and to their families, including helping them to find out about adoption and arrange contact if appropriate
+parentTraining.heading=Support to adoption agencies in preparing and training parents who want to adopt
+establishmentChargesRange.heading=What will be the range of charges to the people using your establishment or agency?
+managerOfEstablishment.heading=Who is the proposed registered manager of the establishment or agency?
+managerTitle.heading=Title
+managerForename.heading=Forename
+managerSurname.heading=Surname
+managerOtherAgency.heading=Is the manager already running any other establishment, agency or business? Or will they do so in future?
+checksAdoptionRegulations2005.heading=Have you carried out all the required checks to ensure that the proposed manager is a fit person?
+checksAdoptionRegulations2005.heading.hint=This means all checks specified in The Adoption Support Agencies (England) and Adoption Agencies (Miscellaneous Amendments) Regulations 2005 (Regulation 9).
+proceduresAndPolicies.heading=Upload your procedures and policies
+proceduresAndPolicies.file.heading=
+proceduresAndPolicies.file.heading.details=Help with the procedures and policies|You need to upload the following procedures and policies as a single document, using headings to identify each policy within the single document:\
+\
+- Accident and missing resident procedure\
+- Safeguarding policy\
+- Children's guide\
+- Prevention of bullying policy\
+- Complaints procedure
+noPreviousApplicationSince30Sep2010.heading=Have you submitted an application before the 30th of September of 2010?
+holdingCompany.inner.name.heading=Name
+holdingCompany.inner.address.heading=Address
+holdingCompany.inner.address.line1.heading=Line 1
+holdingCompany.inner.address.line2.heading=Line 2
+holdingCompany.inner.address.line3.heading=Town
+holdingCompany.inner.address.line4.heading=County
+holdingCompany.inner.address.postcode.heading=Postcode
+holdingCompany.inner.telephone.heading=Telephone
+holdingCompany.inner.email.heading=Email
+holdingCompany.inner.creationDate.heading=Date that it came into being
+holdingCompany.inner.charityNumber.heading=Do you know the charity number?
+holdingCompany.inner.companyNumber.heading=Do you know the company number?
+holdingCompany.inner.subsidiaries.heading=Does the holding company have any other subsidiaries registered with Ofsted?
+holdingCompany.inner.subsidiaries.inner.name.heading=Name
+holdingCompany.inner.subsidiaries.inner.address.heading=Address
+holdingCompany.inner.subsidiaries.inner.address.line1.heading=Line 1
+holdingCompany.inner.subsidiaries.inner.address.line2.heading=Line 2
+holdingCompany.inner.subsidiaries.inner.address.line3.heading=Town
+holdingCompany.inner.subsidiaries.inner.address.line4.heading=County
+holdingCompany.inner.subsidiaries.inner.address.postcode.heading=Postcode
+holdingCompany.inner.subsidiaries.inner.telephone.heading=Telephone
+holdingCompany.inner.subsidiaries.inner.email.heading=Email
+holdingCompany.inner.subsidiaries.inner.ofstedRegNo.heading=Please provide the subsidiary's Ofsted unique registration number (URN)
+manager.title.heading=Title
+manager.firstName.heading=First Name
+manager.surname.heading=Surname
+manager.dob.heading=Date of Birth
+manager.position.heading=Position
+manager.management.heading=Does this person have management responsibility?
+manager.contactChildren.heading=Will this person have significant contact with children and/or young people
+organisationMembers.heading=Are there any other members of the organisation that are not disqualified?
+organisationMembers.inner.title.heading=Title
+organisationMembers.inner.firstName.heading=First Name
+organisationMembers.inner.surname.heading=Surname
+organisationMembers.inner.dob.heading=Date of Birth
+organisationMembers.inner.position.heading=Position
+organisationMembers.inner.management.heading=Does this person have management responsibility?
+organisationMembers.inner.contactChildren.heading=Will this person have significant contact with children and/or young people
+!!!!!=Are there any other members of the organisation that are disqualified?
+membersDisqualified.inner.title.heading=Title
+membersDisqualified.inner.firstName.heading=First Name
+membersDisqualified.inner.surname.heading=Surname
+membersDisqualified.inner.dob.heading=Date of Birth
+membersDisqualified.inner.position.heading=Position
+membersDisqualified.inner.management.heading=Does this person have management responsibility?
+membersDisqualified.inner.contactChildren.heading=Will this person have significant contact with children and/or young people
+establishmentType.heading=What type of establishment or agency is your children's home?
+regPlacesNo.heading=How many registered places do you require?
+homeSingleSex.heading=Will the home be single sex occupancy?
+maxChildrenPerCategory.heading=What is the maximum number of children in each category specified in the Care Standards Act in line with your statement of purpose?
+maxChildrenEmotional.heading=Children with emotional or behavioural difficulties
+maxChildrenPhysical.heading=Children with physicial disabilities
+maxChildrenLearning.heading=Children with learning disabilities
+maxChildrenMental.heading=Children with mental disorders, not including learning disabilities
+maxChildrenDrug.heading=Children with present drug problems
+maxChildrenAlcohol.heading=Children with present alcohol problems
+maxChildrenEyesight.heading=Children with hearing or eyesight difficulties (sensory impairment)
+care4Adults.heading=Are you going to provide care for adults (people aged 18 and over) as well as children?
+ageRange.heading=What is the age range you will accommodate?
+ageRange._1.heading=From
+ageRange._2.heading=To
+childrenSelectionCriteria.heading=Will you select children by any criteria other than age or sex?
+facilitiesServiceDetails.heading=What facilities and services will you provide?
+protectingHealthDetails.heading=What are your arrangements for protecting and promoting the health of children?
+fireEmergencyPrecautions.heading=What are your fire precautions and emergency procedures?
+religiousObservence.heading=What are your arrangements for children to follow religious observance?
+contactChildRelatives.heading=What are your arrangements for contact between a child and its parents, relatives and friends?
+stepsHomeLocation.heading=What steps have you taken to ensure that the home is appropriately and suitably located?
+childrenConcernsComplaints.heading=What are your arrangements for children to raise questions, concerns and complaints about the home?
+childrenEducation.heading=Describe your arrangements for the education of children
+placementReviewing.heading=Describe your arrangements for reviewing placement plans
+indepPersonReg43CH2015.heading=Have you appointed an independent person who meets the criteria of regulation 43 of The Children's Homes (England) Regulations 2015?
+establishmentCareQualCom.heading=Is your establishment registered (or are you also applying to register any 'registerable activities') with the Care Quality Commission under the Health and Social Care Act 2008?
+shortBreaksService.heading=Are you intending to provide a short-breaks service?
+
+
+
+
+
+
+
