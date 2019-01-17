@@ -247,10 +247,35 @@ placementReviewing.heading=Describe your arrangements for reviewing placement pl
 indepPersonReg43CH2015.heading=Have you appointed an independent person who meets the criteria of regulation 43 of The Children's Homes (England) Regulations 2015?
 establishmentCareQualCom.heading=Is your establishment registered (or are you also applying to register any 'registerable activities') with the Care Quality Commission under the Health and Social Care Act 2008?
 shortBreaksService.heading=Are you intending to provide a short-breaks service?
-
-
-
-
-
-
-
+partnershipMembers.inner.management.heading=Does this person have management responsibility?
+partnershipMembers.inner.contactChildren.heading=Will this person have significant contact with children and/or young people
+independentFosteringType.heading=What type of service do you intend to run?
+independentFosteringType.outer.Option1.heading=an agency carrying out the functions of one or more local authorities in connection with placing children with foster parents
+independentFosteringType.outer.Option2.heading=a voluntary organisation that places children with foster parents under section 59(1) of the Children Act 1989
+parentChildrenAct1989.heading
+panel.heading=Has your agency set up a panel?
+panelVarious.heading=Does your agency intend to set up more than one fostering panel?
+panelJoint.heading=Does your agency intend to share a joint fostering panel with another one or two fostering services?
+familiesAccomodated.heading=How many families (this can be with one or two parents and one or more children) will you accommodate at the residential family centre?
+residFamilyCentreServices.heading=Will your establishment do any of the following?
+emergencyAdmissions.heading=Take emergency admissions
+courtReferrals.heading=Take direct referrals from a court
+refuge.heading=Act as a refuge
+careForAdultsWithoutChildren.heading=Care for adults (people over 18) who do not have their children with them
+admitChildrenWithCarers.heading=Regularly admit children accompanied by carers other than their parents
+otherService.heading=Provide a service other than that of the residential family centre
+voluntaryAdoptionType.heading=What type of service do you intend to provide?
+voluntaryAdoptionType.outer.domestic.heading=Domestic adoption
+voluntaryAdoptionType.outer.interCountry.heading=Inter-country adoption
+voluntaryAdoptionType.outer.support.heading=Adoption support services
+branches.heading=Will the voluntary adoption agency have any branches?
+panelMoreBranches.heading=If your agency has more than one branch, will you have more than one adoption panel?
+birthRecordsCounselling.heading=Will your agency provide birth records counselling?
+intermediaryServices.heading=Will your agency provide intermediary services?
+supportProvided.heading=Does your agency also provide adoption support?
+okWithoutPermitChange.heading=Can you confirm that the premises can be used without a change to the existing planning permission?
+singleSex.heading=Will the holiday scheme be single sex occupancy?
+selectionCriteria.heading=Will you select children by any criteria other than age or sex?
+facilitiesServicesDetails.heading=What facilities and services will you provide?
+missingChildrenProcedure.heading=What is your procedure for dealing with any children who may go missing from the holiday scheme?
+concernsComplaints.heading=What are your arrangements for children to raise questions and concerns about the holiday scheme?
