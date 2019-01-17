@@ -280,14 +280,5 @@ facilitiesServicesDetails.heading=What facilities and services will you provide?
 missingChildrenProcedure.heading=What is your procedure for dealing with any children who may go missing from the holiday scheme?
 concernsComplaints.heading=What are your arrangements for children to raise questions and concerns about the holiday scheme?
 
-
-
-
-
-
-
-
-
-
-
-
+TRUE=yes
+FALSE=no
