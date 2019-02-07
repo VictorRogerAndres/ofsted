@@ -15,7 +15,7 @@ individual.heading=Which people are part of the individual provider?
 interestsRea.heading=Do you/does your organisation have any current financial or work interests in one or more other establishments or agencies registered with OFSTED?
 isEducationalEstablishment.heading=Are you applying to register an educational establishment (or planned education establishment) as a children’s home?
 manager.heading=Please, provide the details of the responsible individual for the organisation
-membersDisqualified.heading=!!!!!
+membersDisqualified.heading=Which members of the organisation will be disqualified?
 moreDetails.heading=You need to provide more details
 orgSector.heading=Organisation sector:
 orgType.heading=Type of organisation:
@@ -29,7 +29,7 @@ refusedApplication.heading.hint=Only answer "Yes" if it happened under any of th
                                 - Nurses Agencies Act 1957 \
                                 - Care Standards Act 2000 \
                                 - Health and Social Care Act 2008
-serviceType.heading=What type of service are you applying to register? Testing with Mac and Chas
+serviceType.heading=What type of service are you applying to register?
 ChildrenHome.option=Childrens home
 targetOpDate.heading=What is the target opening date?
 telephone.heading=Phone number
